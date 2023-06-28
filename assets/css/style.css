@@ -113,4 +113,16 @@ body header img{  outline: rgb(0, 0, 0) dashed 5px;
     height: auto;
     
 }
+.links {
+    margin-left: 750px;
+}
+.git{
+    height: 50px;
+}
+.selfie{
+    height: 350px;
+    margin-left: 800px;
+    margin-top: 50px;
+}
+ 
 
