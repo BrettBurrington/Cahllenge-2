@@ -1,1 +1,2 @@
 # Cahllenge-2
+This website is a colection of my work as a coder and as a content creator. There is contact information at the bottom that will take the user to each means of communication. There is also a photo link to my Horiseon refactory which is my first project as a coder. The pictur eof the people takes the use to my youtube page where i have some content im passionate about.
