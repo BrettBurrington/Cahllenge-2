@@ -24,7 +24,7 @@ header {
 main{
     position: relative;
     background-color: #210a4d;
-    outline: rgb(8, 193, 240) dashed 5px;
+ 
     
 }
 
@@ -68,7 +68,6 @@ body header img{  outline: rgb(0, 0, 0) dashed 5px;
     margin-left: 20px;
 }
 .col2{
-    outline: rgb(226, 240, 252) dashed 5px;
     width:98%;
     padding-left:20px;
     display:flex;
@@ -78,7 +77,6 @@ body header img{  outline: rgb(0, 0, 0) dashed 5px;
 
 }
 .col3 figure img {
-    outline: rgb(208, 226, 41) dashed 5px;
     width:50%;
     height: auto;
     position: fixed;
@@ -89,7 +87,7 @@ body header img{  outline: rgb(0, 0, 0) dashed 5px;
     
 }
 .col3{
-    outline: rgb(4, 243, 64) dashed 5px;
+
     width:92%;
     padding-left:20px;
     display:flex;
@@ -97,7 +95,7 @@ body header img{  outline: rgb(0, 0, 0) dashed 5px;
   
 }
 .card{
-    outline: red dashed 5px;
+    
     display:flex;
     flex-wrap:wrap;
     width: 40%;
